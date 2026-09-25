@@ -1,0 +1,5 @@
+App Name: DRA Exam
+Access Instructions:
+1. Open the app and tap "Continue with Google".
+2. Use any valid Google account to sign in, as account creation is automatic upon first login.
+3. For reviewing admin dashboard features, log in using the designated administrator account: dheerajkumar03mms@gmail.com
